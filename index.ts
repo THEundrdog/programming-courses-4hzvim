@@ -6,3 +6,4 @@
  let num4: number;
  num3 = 100;
  num4 = 200;
+console.log(num3 + num4);
