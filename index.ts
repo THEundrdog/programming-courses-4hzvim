@@ -4,5 +4,4 @@
 
 let myText : string;
 myText = "bla bla bla bla";
-
 console.log(myText);
