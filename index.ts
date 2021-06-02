@@ -2,14 +2,6 @@
 //###########################           SSTech       ###################
 //###########################  
 
-let num1: number; 
-let num2: number;
-let num3: number; 
-
-num1 = 20; 
-num2 = 20;
-
-num3 = num1 * num2 ;
- console.log(num3)
-
-
+let mytext : string;
+mytext = "worksmart havefun dependongod makehistory";
+console.log(mytext);
