@@ -5,8 +5,8 @@
 let num1: number;
 let num2: number;
 let num3: number;
-num1 = 10;
-num2 = 20;
+num1 = 40;
+num2 = 50;
 
 num3 = num1 + num2 ;
 console.log(num3);
