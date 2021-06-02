@@ -2,8 +2,4 @@
 //###########################           SSTech       ###################
 //###########################  
 
- let num3: number;
- let num4: number;
- num3 = 100;
- num4 = 200;
-console.log(num3 + num4);
+ console.log("nikmatkom world");
