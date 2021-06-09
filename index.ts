@@ -5,5 +5,6 @@
 
 let myText: string;
 myText = "atcho chwiya";
-myText = "ak chayaf";
-console.log(myText);
+myText = "antik hadik hiya";
+
+console.log(mytext);
