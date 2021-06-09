@@ -7,7 +7,7 @@ myNumber2 = parseInt(prompt("المرجو كتابة العدد الثاني"));
 result = myNumber1 * myNumber2;
 if(result == 0){
 console.log("ضرب العددين منعدم");
-  } else if(result > 0) {
+  } else if(result > 0) { 
   console.log("ضرب العددين موجب");
   }else { 
     console.log("ضرب العددين سالب"); 
