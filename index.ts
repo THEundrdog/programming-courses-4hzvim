@@ -4,5 +4,5 @@
 
 let myNumber: number;
 myNumber = 10;
-
+myNumber = 20;
 console.log(myNumber);
