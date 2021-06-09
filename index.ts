@@ -10,7 +10,7 @@ console.log("ضرب العددين منعدم");
   } else if(result > 0) {
   console.log("ضرب العددين موجب");
   }else { 
-    console.log("ضرب العددين سالب");
+    console.log("ضرب العددين سالب"); 
     }
 
 
