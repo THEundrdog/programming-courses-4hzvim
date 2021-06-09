@@ -2,8 +2,7 @@
 //###########################           SSTech       ###################
 //###########################  
 
-
-let myText: string;
-myText = "atcho chwiya";
-myText = myText + "antik hadik hiya";
-console.log(myText);
+let myNumber: number;
+myNumber = 100;
+myNumber = myNumber + 10; 
+console.log(myNumber);
