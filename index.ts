@@ -2,9 +2,8 @@
 //###########################           SSTech       ###################
 //###########################  
 
-let myNumber: number;
-myNumber = 10;
-myNumber = myNumber + 10;
-myNumber = 20;
-myNumber = myNumber - 10;
-console.log(myNumber);
+let mynumber1, mynumber2, mynumber3: number;
+mynumber1 = 50;
+mynumber2 = 110;
+mynumber3 = mynumber1 + mynumber2;
+console.log(mynumber3);
