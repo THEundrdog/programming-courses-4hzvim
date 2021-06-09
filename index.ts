@@ -5,6 +5,6 @@
 let mynumber : number; 
 mynumber = parseInt(prompt("المرجو ادخال العد"));
 if (mynumber < 0) {
-  console.log(العدد موجب);
+  console.log("العدد موجب");
   }
 console.log("النهاية");
