@@ -8,7 +8,7 @@ if (mynumber > 0 ) {
   console.log("العدد موجب");
 } else { 
 console.log("العدد سالب");
- } 
+ } d
   console.log("النهاية");
 
 
