@@ -2,14 +2,11 @@
 //###########################           SSTech       ###################
 //###########################  
 
-let mynumber : number;
-mynumber = parseInt (prompt("المرجو ادخال العدد")); 
-if (mynumber > 0 ) { 
-  console.log("العدد موجب");
-} else { 
-console.log("العدد سالب");
- } d
-  console.log("النهاية");
+let mynumber1, mynumber2, mynumber3 : number;
+mynumber1 = 2;
+mynumber2 = 4;
+mynumber3 = mynumber1 * mynumber2;
+console.log("mynumber3");
 
 
 
