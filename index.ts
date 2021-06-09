@@ -2,8 +2,7 @@
 //###########################           SSTech       ###################
 //###########################  
 
-let myText : string;
-myText = "bla bla bla bla";
-myText = "iknow iknow iknow";
 
+let myText: string;
+myText = "atcho chwiya";
 console.log(myText);
