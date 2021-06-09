@@ -2,11 +2,15 @@
 //###########################           SSTech       ###################
 //###########################  
 
-let mynumber1, mynumber2, mynumber3 : number;
-mynumber1 = 2;
-mynumber2 = 4;
-mynumber3 = mynumber1 * mynumber2;
-console.log("mynumber3");
+let mynumber1, mynumber2, result: number;
+mynumber1 = parseInt(prompt("المرجو كتابةالعدد الاول "));
+mynumber2 = parseInt(prompt("المرجو كتابة العدد الثاني"));
+result = mynumber1 * mynumber2;
+if (result > 0) { 
+  console.log("ضرب العددين موجب");
+  }else {
+    console.log("ضرب العددين سالب");
+    }
 
 
 
