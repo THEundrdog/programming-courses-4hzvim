@@ -7,4 +7,4 @@ let myText: string;
 myText = "atcho chwiya";
 myText = "antik hadik hiya";
 
-console.log(mytext);
+console.log(myText);
