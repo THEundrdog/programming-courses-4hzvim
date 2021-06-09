@@ -6,8 +6,10 @@ let mynumber : number;
 mynumber = parseInt (prompt("المرجو ادخال العدد")); 
 if (mynumber > 0 ) { 
   console.log("العدد موجب");
-}else{ 
-  console.log("العدد سالب");
+} else { 
+console.log("العدد سالب");
+ } 
   console.log("النهاية");
+
 
 
