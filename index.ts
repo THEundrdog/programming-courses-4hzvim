@@ -3,6 +3,6 @@
 //###########################  
 
 let myNumber: number;
-myNumber = 100;
-myNumber = myNumber + 10; 
+myNumber = 10;
+
 console.log(myNumber);
