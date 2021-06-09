@@ -3,8 +3,8 @@
 //###########################  
 
 let mynumber : number; 
-mynumber = parseInt(prompt("المرجو ادخال العدد"));
-if (mynumber < 0) {
+mynumber = parseInt( prompt (" المرجو ادخال العدد "));
+if ( mynumber < 0) {
   console.log("العدد موجب");
-  }
-console.log("النهاية");
+}
+console.log(" النهاية ");
