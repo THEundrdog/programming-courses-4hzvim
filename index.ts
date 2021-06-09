@@ -7,4 +7,4 @@ mynumber = parseInt(prompt("المرجو ادخال العد"));
 if (mynumber < 0) {
   console.log("العدد موجب");
   }
-console.log("النهاية");
+console.log("النهاية"); 
