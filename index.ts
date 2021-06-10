@@ -10,7 +10,7 @@ if(age == 1  || age == 2) {
     console.log("طفل");
   } else if(age >= 15 && age <= 21) {
     console.log("شاب");
-  } eles if(age >= 22 ) {
+  } else if(age >= 22 ) {
     console.log("رجل");
    } 
  
