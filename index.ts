@@ -2,13 +2,13 @@
 //###########################           SSTech       ################### 
 //###########################  
   
- let mynumber1, mynumber2, result : number;
- mynumber1 = parseInt(prompt("مرجو كتابة العدد الأول"));
+ let mynumber1, mynumber2, resulte : number;
+ mynumber1 = parseInt(prompt("مرجو كتابة العدد الاول"));
  mynumber2 = parseInt(prompt("مرجو كتابة العدد الثاني"));
- if(mynumber1 > mynumber2) { 
-  result = mynumber1 - mynumber2;
-  }else {   
-    result = mynumber2 - mynumber1;
-    }
-    console.log(result);
+ resulte = mynumber1 * mynumber2;
+ if(resulte > 0 ) {
+  console.log("ضرب العددين موجب )");
+}else { 
+  consle.log("ضرب العددين سالب");
 
+ } 
