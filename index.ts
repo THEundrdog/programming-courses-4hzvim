@@ -2,12 +2,11 @@
 //###########################           SSTech       ###################  
 //###########################  
   
- let mynumber1, mynumber2, result : number;
+ let mynumber1, result : number;
  mynumber1 = parseInt(prompt("مرجو كتابة العدد الاول"));
- mynumber2 = parseInt(prompt("مرجو كتابة العدد الثاني"));
- if (mynumber1 > mynumber2) {
-   result = mynumber1 - mynumber2;
-  } else { 
-    result = mynumber2 - mynumber1;
-  }  
-  console.log(result);   
+ result = mynumber1 % 2;
+if(result == 0 ) { 
+  console.log("العدد زوجي");
+ } else {
+   consle.log("العدد فردي");
+   }  
