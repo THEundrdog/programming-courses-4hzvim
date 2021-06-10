@@ -1,17 +1,15 @@
  //######################################################################
 //###########################           SSTech       ###################
 //###########################  
-let myNumber1, myNumber2, result : number;
-myNumber1 = parseInt(prompt("المرجو كتابة العدد الأول "));
-myNumber2 = parseInt(prompt("المرجو كتابة العدد الثاني"));
-result = myNumber1 * myNumber2;
-if(result == 0){
-console.log("ضرب العددين منعدم");
-  } else if(result > 0) { 
+let mynumber1, mynumber2, result : number;
+mynumber1 = parseInt(prompt("مرجو كتابة العدد الاول "));
+mynumber2 = parseInt(prompt("مرجو كتابة العدد الثاني"));
+result = mynumber1 * mynumber2;
+if(result > 0 ) { 
   console.log("ضرب العددين موجب");
-  }else { 
-    console.log("ضرب العددين سالب"); 
-    } 
+  }else {
+    console.log("ضرب العددين سالب");
+     }
 
 
 
