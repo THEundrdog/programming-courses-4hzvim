@@ -9,4 +9,4 @@ if(result == 0 ) {
   console.log("العدد زوجي");
  } else { 
    console.log("العدد فردي");
-   }
+   }  
