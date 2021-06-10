@@ -7,6 +7,6 @@
  result = mynumber1 % 2;
 if(result == 0 ) { 
   console.log("العدد زوجي");
- } else {
-   consle.log("العدد فردي");
-   }  
+ } else { 
+   console.log("العدد فردي");
+   }
