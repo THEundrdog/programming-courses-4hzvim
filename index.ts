@@ -10,4 +10,4 @@
    }else { 
 resulte = mynumber2 - mynumber1;
 }
-console.log(resulte);
+console.log(resulte); 
