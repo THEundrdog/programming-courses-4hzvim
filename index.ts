@@ -10,4 +10,4 @@
   } else { 
     result = mynumber2 - mynumber1;
   }  
-  console.log(result);  
+  console.log(result);   
