@@ -8,7 +8,7 @@
  if(mynumber1 > mynumber2) { 
   result = mynumber1 - mynumber2;
   }else {   
-    result = mynumber2 - mynumbe1;
+    result = mynumber2 - mynumber1;
     }
     console.log(result);
 
