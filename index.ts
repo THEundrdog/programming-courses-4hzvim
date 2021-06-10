@@ -4,7 +4,7 @@
   
  let mynumber1, resulte : number;
  resulte = mynumber1 % 2;
- if(resulte == 0 ) {
+ if(resulte == 0 ) { 
   console.log("العدد زوجي") ;
   } else {
 console.log("العدد فردي");
