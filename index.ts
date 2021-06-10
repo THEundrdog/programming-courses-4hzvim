@@ -7,7 +7,7 @@
  mynumber2 = parseInt(prompt("ضرب العدد الثاني"));
  if(mynumber1 > mynumber2) {
    resulte = mynumber1 - mynumber2;
-   }esle {
+   }else { 
 resulte = mynumber2 - mynumber1;
 }
 console.log(resulte);
