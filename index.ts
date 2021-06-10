@@ -9,6 +9,6 @@
  if(resulte > 0 ) {
   console.log("ضرب العددين موجب )");
 }else { 
-  consle.log("ضرب العددين سالب");
+  console.log("ضرب العددين سالب");
 
  } 
