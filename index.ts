@@ -10,4 +10,4 @@
  console.log("طفل");
 } else if(age >= 15 && age <=21) { 
   console.log("شاب");
-  }  
+  }    
