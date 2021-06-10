@@ -8,7 +8,7 @@
  resulte = mynumber1 * mynumber2;
  if(resulte > 0 ) {
   console.log("ضرب العددين موجب )");
-}else { 
+}else {  
   console.log("ضرب العددين سالب");
 
  } 
