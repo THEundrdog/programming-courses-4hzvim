@@ -4,7 +4,7 @@
   
  let index: number;
  for(index = 1; index <= 100; index++) {  
-   console.log("الله اكبر" , index )
+   console.log("  الله اكبر  " , index )
    } 
    
 
